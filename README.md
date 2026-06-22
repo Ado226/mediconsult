@@ -3,6 +3,18 @@
 > Projet du **Master Télémédecine & e-Santé** — *Technologie Mobile pour la Santé* (Séance 5, Option B).
 > Application mobile Flutter de consultation médicale intégrant UI + Données + API + Sécurité.
 
+## 📥 Télécharger l'application (APK)
+
+➡️ **[Télécharger MediConsult v1.0.0 (.apk)](https://github.com/Ado226/mediconsult/releases/latest)**
+
+Installer sur un appareil Android (autoriser les « sources inconnues »).
+
+## 📱 Captures d'écran
+
+| Connexion | Tableau de bord | Liste patients | Patients FHIR |
+|-----------|-----------------|----------------|---------------|
+| ![Connexion](docs/screenshots/01-connexion.png) | ![Tableau de bord](docs/screenshots/02-tableau-de-bord.png) | ![Liste patients](docs/screenshots/03-liste-patients.png) | ![Patients FHIR](docs/screenshots/04-patients-fhir.png) |
+
 ---
 
 ## 🎯 Présentation
